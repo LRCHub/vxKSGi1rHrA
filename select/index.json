@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "TAXI",
+  "base_artist": "百足",
+  "createdAt": "2026-01-08T12:14:34.285550Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mr. Taxi (Steve Aoki Remix)",
+      "artist": "Girls' Generation",
+      "has_synced": false,
+      "path": "select/01_Mr._Taxi_(Steve_Aoki_Remix)_Girls'_Generation.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "MR.TAXI",
+      "artist": "Girls' Generation",
+      "has_synced": false,
+      "path": "select/02_MR.TAXI_Girls'_Generation.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "MR.TAXI",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/03_MR.TAXI_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "MR.TAXI (Korean Ver.)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/04_MR.TAXI_(Korean_Ver.)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mr. Taxi",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/05_Mr._Taxi_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mr.Taxi (Korean Ver.)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/06_Mr.Taxi_(Korean_Ver.)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mr.Taxi (Steve Aoki Remix)",
+      "artist": "Girls' Generation",
+      "has_synced": false,
+      "path": "select/07_Mr.Taxi_(Steve_Aoki_Remix)_Girls'_Generation.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Big Yellow Taxi",
+      "artist": "Máire Brennan",
+      "has_synced": false,
+      "path": "select/08_Big_Yellow_Taxi_Máire_Brennan.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Heart Failed (In The Back Of A Taxi)",
+      "artist": "Saint Etienne",
+      "has_synced": true,
+      "path": "select/09_Heart_Failed_(In_The_Back_Of_A_Taxi)_Saint_Etienne.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Taxi Taxi",
+      "artist": "Blümchen",
+      "has_synced": false,
+      "path": "select/10_Taxi_Taxi_Blümchen.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Taxi to Nowhere",
+      "artist": "Electric Six",
+      "has_synced": true,
+      "path": "select/11_Taxi_to_Nowhere_Electric_Six.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Taxi",
+      "artist": "Brennan Savage",
+      "has_synced": true,
+      "path": "select/12_Taxi_Brennan_Savage.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Beijing Taxi",
+      "artist": "Viagra Boys",
+      "has_synced": true,
+      "path": "select/13_Beijing_Taxi_Viagra_Boys.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Taxi Driver",
+      "artist": "Hanoi Rocks",
+      "has_synced": true,
+      "path": "select/14_Taxi_Driver_Hanoi_Rocks.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Taxi",
+      "artist": "Bryan Ferry",
+      "has_synced": false,
+      "path": "select/15_Taxi_Bryan_Ferry.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TAXI",
+      "artist": "百足",
+      "has_synced": false,
+      "path": "select/pl_01_TAXI_百足.txt"
+    }
+  ]
+}
